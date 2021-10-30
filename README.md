@@ -8,7 +8,7 @@ Later project can be turned into an api that value investing module sends reques
 
 ## How to run
 
-1-) Clone the repository, go to the project folder and run the following command
+Clone the repository, go to the project folder and run the following command
 
 ```bash
 $ python3 main.py 

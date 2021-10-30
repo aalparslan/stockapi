@@ -18,7 +18,7 @@ import pprint
 
 def main():
     import Stock
-    dummy_stock = Stock.Stock("apple")
+    dummy_stock = Stock.Stock("facebook")
     dummy_stock.run_spider('ticker')
     # yukarda facebook un company nameinden ticker sembolu olan FB yi scrape ettik ve
     # Bunu ticker_spider isimli class ile yaptik. Bulunan degeri stock classinin ilgili
